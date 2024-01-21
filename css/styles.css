@@ -508,12 +508,6 @@ button {
     justify-content: center;
 }
 
-@media only screen and (min-width: 1158px) {
-    .socials-list {
-    
-  }
-}
-
 
 .socials-link {
     display: flex;
